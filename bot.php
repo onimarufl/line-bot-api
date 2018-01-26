@@ -2,7 +2,7 @@
 
 // example: https://github.com/onlinetuts/line-bot-api/blob/master/php/example/chapter-01.php
 
-include ('php/line-bot.php');
+include ('line-bot-api/php/line-bot.php');
 
 $channelSecret = 'f0ee00bdba1460f67f9e0b4991422097';
 $access_token  = 'ozGfNAi/Ho8XhNXyAbvshLXFM5E5u8PFFYuDwcDgHo7BGyVwlDl60J5MoU3zqsflgCNpL9KJl5I6YfMpmNveUjbwcoi4f943KMjpHwmxb+otuhVR7dplahDrd8dHUXI+D8lDXZ1wqLyRiZ6sa+fF3AdB04t89/1O/w1cDnyilFU=';
