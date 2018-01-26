@@ -1,2 +1,2 @@
-# line-bot-api
-ระบบ LINE BOT (API) 
+# Install
+npm install
